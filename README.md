@@ -1,4 +1,3 @@
-#Práctica 1 Backend TAW-251: Proyecto Universidad - Spring Boot
 # 🎓 Práctica 1 Backend TAW-251: Proyecto Universidad - Spring Boot
 
 Este es un sistema de gestión de estudiantes desarrollado con Spring Boot.  
@@ -54,5 +53,4 @@ Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los 
 
     4️⃣ Prueba los endpoints con Postman o un navegador
 
-        📎 Enlace al repositorio en GitHub
-        https://github.com/Elizabeth630/Practica-Nro-1---Desarrollo-Web-Backend-TAW-251.git
+📎 Enlace al repositorio en GitHub: [https://github.com/Elizabeth630/Practica-Nro-1---Desarrollo-Web-Backend-TAW-251](https://github.com/Elizabeth630/Practica-Nro-1---Desarrollo-Web-Backend-TAW-251)
